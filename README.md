@@ -40,7 +40,7 @@ The Celeron N5100 is not a powerhouse but it handles:
 - [x] Switched to X11 for controller compatibility
 - [x] antimicrox installed (controller to keyboard/mouse mapping)
 - [x] Xbox Series X Controller detected and working
-- [ ] Controller button mappings (fully) configured
+- [x] Controller button mappings configured
 - [ ] EmulationStation-DE installed and themed
 - [ ] Steam library integrated
 - [ ] Auto-start antimicrox on boot
